@@ -1,4 +1,4 @@
-package com.example.springstartherespringdata;
+package com.example.springstartherespringdata.ch_14_15;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.example.springstartherespringdata.controller;
+package com.example.springstartherespringdata.ch_14_15.controller;
 
-import com.example.springstartherespringdata.model.Account;
-import com.example.springstartherespringdata.service.TransferService;
+import com.example.springstartherespringdata.ch_14_15.model.Account;
+import com.example.springstartherespringdata.ch_14_15.service.TransferService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

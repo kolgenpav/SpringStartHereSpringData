@@ -1,6 +1,6 @@
-package com.example.springstartherespringdata.repository;
+package com.example.springstartherespringdata.ch_14_15.repository;
 
-import com.example.springstartherespringdata.model.Account;
+import com.example.springstartherespringdata.ch_14_15.model.Account;
 import org.springframework.data.jdbc.repository.query.Modifying;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.CrudRepository;

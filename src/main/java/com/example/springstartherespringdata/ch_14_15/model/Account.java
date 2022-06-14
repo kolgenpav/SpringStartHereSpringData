@@ -1,4 +1,4 @@
-package com.example.springstartherespringdata.model;
+package com.example.springstartherespringdata.ch_14_15.model;
 
 import org.springframework.data.annotation.Id;
 

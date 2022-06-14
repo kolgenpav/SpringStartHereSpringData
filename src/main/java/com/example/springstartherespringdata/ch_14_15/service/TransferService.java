@@ -1,7 +1,7 @@
-package com.example.springstartherespringdata.service;
+package com.example.springstartherespringdata.ch_14_15.service;
 
-import com.example.springstartherespringdata.model.Account;
-import com.example.springstartherespringdata.repository.AccountRepository;
+import com.example.springstartherespringdata.ch_14_15.model.Account;
+import com.example.springstartherespringdata.ch_14_15.repository.AccountRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

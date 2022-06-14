@@ -1,4 +1,4 @@
-package com.example.springstartherespringdata.controller;
+package com.example.springstartherespringdata.ch_14_15.controller;
 
 import java.math.BigDecimal;
 
